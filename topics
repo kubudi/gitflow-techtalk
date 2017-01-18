@@ -1,0 +1,25 @@
+- what
+- why
+- when
+- how
+  - master
+    - timeless
+    - always production ready
+  - develop
+    - timeless
+    - where lives
+    - merges to master(release)
+  - tags
+    - for master defines release version
+  - feature/
+    - originates from develop
+    - merges backs to develop
+  - release/
+    - originates from develop
+    - merges back to develop and master
+  - hotfix/
+    - originates from master
+    - merges back to develop and master
+- testing
+  - on branch
+  - on develop
