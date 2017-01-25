@@ -1,6 +1,8 @@
-* Original idea: 
+* original idea: 
     http://nvie.com/posts/a-successful-git-branching-model/
-* Gitflow for dummies:
+* gitflow for dummies:
     https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 * helper commands:
     https://github.com/nvie/gitflow
+* metglobal docs:
+    https://metglobal.atlassian.net/wiki/display/OPUS/Git+Flow
